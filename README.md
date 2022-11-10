@@ -121,18 +121,6 @@ public class RollerAgent : Agent
 <img width="871" alt="197776257-2beb2f11-68c2-4b9f-ad5a-be8dbcbab767" src="https://user-images.githubusercontent.com/94855641/201165800-e75195b2-a8ea-4dac-9f22-bafe295fbe7a.png">
 
 
-Видео запуска сцены с 27 моделями «Плоскость-Сфера-Куб»
-
-
-https://user-images.githubusercontent.com/94855641/201153684-648c9107-4326-410f-9a24-a37c19436b74.mov
-
-Видео проверки работы обученной модели
-
-
-https://user-images.githubusercontent.com/94855641/201154651-e74b9108-75f8-428c-aeb8-f308501ba6b4.mov
-
-
-
 # Выводы
 
 Чем больше моделей обучается одновременно, тем быстрее будет виден результат обучения
