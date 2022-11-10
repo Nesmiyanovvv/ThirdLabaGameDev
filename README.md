@@ -118,7 +118,7 @@ public class RollerAgent : Agent
 
 Запуск агента
 
-![197776257-2beb2f11-68c2-4b9f-ad5a-be8dbcbab767](https://user-images.githubusercontent.com/94855641/201165800-e75195b2-a8ea-4dac-9f22-bafe295fbe7a.png)
+<img width="871" alt="197776257-2beb2f11-68c2-4b9f-ad5a-be8dbcbab767" src="https://user-images.githubusercontent.com/94855641/201165800-e75195b2-a8ea-4dac-9f22-bafe295fbe7a.png">
 
 
 Видео запуска сцены с 27 моделями «Плоскость-Сфера-Куб»
