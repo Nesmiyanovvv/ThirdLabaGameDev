@@ -55,7 +55,7 @@
 <img width="1329" alt="197770689-0ede7400-373a-4048-9a7e-5e869723b76b" src="https://user-images.githubusercontent.com/94855641/201150158-0f46afd2-4bf5-451d-b25e-d02aba085551.png">
 
 Добавление приведенного ниже скрипта в RollerAgent.cs
-```
+```C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
