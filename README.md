@@ -118,7 +118,7 @@ public class RollerAgent : Agent
 
 Запуск агента
 
-<img width="871" alt="197776257-2beb2f11-68c2-4b9f-ad5a-be8dbcbab767" src="https://user-images.githubusercontent.com/94855641/201150694-ed59f09e-ac52-4eaf-bdd2-74e2f410070b.png">
+![197776257-2beb2f11-68c2-4b9f-ad5a-be8dbcbab767](https://user-images.githubusercontent.com/94855641/201165800-e75195b2-a8ea-4dac-9f22-bafe295fbe7a.png)
 
 
 Видео запуска сцены с 27 моделями «Плоскость-Сфера-Куб»
@@ -175,7 +175,7 @@ https://user-images.githubusercontent.com/94855641/201154651-e74b9108-75f8-428c-
 
 Затем доработан скрипт на C#
 
-```
+```C#
 using UnityEngine;
 using Unity.MLAgents;
 using Unity.MLAgents.Sensors;
